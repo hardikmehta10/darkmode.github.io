@@ -7,7 +7,7 @@ body{
 .container{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding: 30px;
-    color: rgb(38, 112, 142);
+    color: rgb(0, 0, 0);
     position: absolute;
     font-weight: bolder;
     top: 30%;
