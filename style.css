@@ -1,0 +1,36 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(232, 232, 232);
+}
+
+.container{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 30px;
+    color: rgb(38, 112, 142);
+    position: absolute;
+    font-weight: bolder;
+    top: 30%;
+    right: 50%;
+    transform: translate(50%,-50%);
+    font-size: 80px;
+    white-space: nowrap;
+}
+
+.btn{
+    display: block;
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    transform: translate(50%,-0%);
+    height: 70px;
+    width: 170px;
+    cursor: pointer;
+    border: 2px solid rgb(255, 255, 255);
+    font-family:calibri;
+    font-size: 17px;
+    color: white;
+    background-color: rgb(0, 0, 0);
+    border-radius: 40px;
+}
+
